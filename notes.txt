@@ -5,12 +5,12 @@ High level TODOS:
 		- [DONE] Add bootstrap
 	2: [DONE] Set up a new NestJS project. This will be the server-side of your application.
 	
-	3: In the NestJS project, set up MongoDB as the database using the @nestjs/mongoose package.
+	3: [DONE] In the NestJS project, set up MongoDB as the database using the @nestjs/mongoose package.
 		- [DONE] Install mongoose
 		- [DONE] Create database table
 		- [DONE] Set up .env usage
 		- [DONE] Configure database connection
-	4: Create a MongoDB schema to store the chat messages.
+	4: [DONE] Create a MongoDB schema to store the chat messages.
 
 	5: In the Angular project, create a service to handle WebSocket communication using the Angular WebSocket module.
 
