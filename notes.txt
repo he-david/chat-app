@@ -9,7 +9,7 @@ High level TODOS:
 		- [DONE] Install mongoose
 		- [DONE] Create database table
 		- [DONE] Set up .env usage
-		- Configure database connection
+		- [DONE] Configure database connection
 	4: Create a MongoDB schema to store the chat messages.
 
 	5: In the Angular project, create a service to handle WebSocket communication using the Angular WebSocket module.
