@@ -6,9 +6,9 @@ High level TODOS:
 	2: [DONE] Set up a new NestJS project. This will be the server-side of your application.
 	
 	3: In the NestJS project, set up MongoDB as the database using the @nestjs/mongoose package.
-		- Install mongoose
-		- Create database table
-		- Set up .env usage
+		- [DONE] Install mongoose
+		- [DONE] Create database table
+		- [DONE] Set up .env usage
 		- Configure database connection
 	4: Create a MongoDB schema to store the chat messages.
 
