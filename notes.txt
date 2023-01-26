@@ -1,0 +1,24 @@
+High level TODOS:
+	1: Set up a new Angular project using the Angular CLI. This will be the client-side of your application.
+		- [DONE] Generate Angular app
+		- [DONE] Set up jest instead of karma (https://dev.to/this-is-angular/migrate-from-jasmine-to-jest-and-testing-in-angular-286i)
+		- Add bootstrap
+	2: Set up a new NestJS project. This will be the server-side of your application.
+		
+	3: In the NestJS project, set up MongoDB as the database using the @nestjs/mongoose package.
+
+	4: Create a MongoDB collection to store the chat messages.
+
+	5: In the Angular project, create a service to handle WebSocket communication using the Angular WebSocket module.
+
+	6: In the NestJS project, create a WebSocket gateway to handle WebSocket connections and messages from the client.
+
+	7: In the Angular project, create a component to display the chat messages and input for new messages.
+
+	8: In the NestJS project, create a controller to handle incoming messages from the client and store them in the MongoDB collection.
+
+	9: In the Angular project, create a service to retrieve chat messages from the server and display them in the chat component.
+
+	10: Test and debug the application.
+
+	11: Deploy the application to a hosting platform, such as Heroku or AWS.
