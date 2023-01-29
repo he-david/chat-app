@@ -1,1 +1,5 @@
 <h1>Set up done</h1>
+<div *ngFor="let message of messages">
+  {{ message }}
+</div>
+<input [(ngModel)]="message" (keyup.enter)="sendMessage()" placeholder="Type your message here">
